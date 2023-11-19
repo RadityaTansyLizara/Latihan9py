@@ -162,4 +162,7 @@ print("+----+-----------------------+--------+--------+-------+-------+---------
 
 Hasil Program
 ![Alt text](<Screenshot (104).png>)
+## FLOWCHART
+![image-1](https://github.com/RadityaTansyLizara/Latihan9py/assets/147571863/9d327c25-b13d-4b84-8e88-66ed921faaf4)
+
 ## TERIMA KASIH
